@@ -9,15 +9,7 @@
      }
    );
  </code>  
-* dblclick() tương tự như click()
+** dblclick() tương tự như click()
 * mouseenter() tương tự như click()
 * mouseleave()
-* mousedown()
-* mouseup()
-* hove() =  mouseenter() + mouseleave()
-* focus() 
-<code>
-  $("input").focus(function(){
-  $(this).css("background-color", "#cccccc");
-  });
-</code>
+* mousedown
